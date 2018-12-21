@@ -1,0 +1,22 @@
+PODS:
+  - KVOController (1.2.0)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+
+DEPENDENCIES:
+  - KVOController (= 1.2.0)
+  - SDWebImage (= 4.4.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KVOController
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+
+PODFILE CHECKSUM: 9359838e111c02727a439078a83c6c848edcf5ef
+
+COCOAPODS: 1.6.0.beta.2
